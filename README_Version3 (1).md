@@ -1,0 +1,36 @@
+# 👋 Hi, I’m pupp3t4bra (Alejandro Navarro Gutierrez)
+
+## 🛡️ Cybersecurity Enthusiast | Penetration Tester | OSINT Investigator | Hardware Hacker
+
+Welcome to my GitHub! I’m passionate about cybersecurity—especially penetration testing, OSINT, hardware hacking, and making the digital world more secure.
+
+### 🧰 My Top Skills & Tools
+- **Penetration Testing**
+- **Kali Linux**
+- **Bash Scripting**
+- **Nmap**
+- **Python**
+- **C Programming**
+- **Exploitation Techniques**
+- **OSINT (Open Source Intelligence)**
+- **Hardware Hacking & Raspberry Pi Projects**
+- **Making & DIY Electronics**
+
+### 🚩 What I Do
+- Uncover vulnerabilities and craft proof-of-concepts
+- Automate tasks and intelligence gathering with custom scripts and tools
+- Dive into hardware hacking and DIY electronics with Raspberry Pi
+- Explore, analyze, and share open-source security resources
+- Collaborate on open-source security and maker projects
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/alejandro-navarro-gutierrez-460b20362)
+
+---
+
+> “The quieter you become, the more you are able to hear.”  
+> — Ram Dass
+
+<!--
+Want to highlight a specific project or add more links? Let me know!
+-->
